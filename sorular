@@ -1,1 +1,12 @@
-asdasdafsdav
+{
+  "sorular": [
+   {
+     "soru": "Bu bir sorudur",
+     "cevap": "Bu bir cevaptır"
+   },
+   {
+     "soru": "Bu ikinci sorudur",
+     "cevap": "Bu ikinci cevaptır"
+   }
+  ]
+}
