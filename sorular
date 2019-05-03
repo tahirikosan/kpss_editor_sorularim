@@ -1,44 +1,404 @@
 {
   "sorular": [
-   {
-     "soru": "nde düzenlenen, Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri kapsamında sanat/fotoğraf ödülüne layık görülen  isim aşağıdak",
-     "cevap": "İzzet Keribar"
-   },
-   {
-     "soru": "Bu i2 sorudur",
-     "cevap": "Bu i2ci cevaptır"
-   },
-   {
-     "soru": "Bu 3 sorudur",
-     "cevap": "Bu 3 cevaptır"
-   },
-   {
-     "soru": "Bu 4 sorudur",
-     "cevap": "Bu 4 cevaptır"
-   },
-   {
-     "soru": "Bu 5 sorudur",
-     "cevap": "Bu 5 cevaptır"
-   },
-   {
-     "soru": "Bu 8 sorudur",
-     "cevap": "Bu ikinci cevaptır"
-   },
-   {
-     "soru": "Bu ikinci sorudur",
-     "cevap": "Bu ikinci cevaptır"
-   },
-   {
-     "soru": "Bu ikinci sorudur",
-     "cevap": "Bu ikinci cevaptır"
-   },
-   {
-     "soru": "Bu ikinci sorudur",
-     "cevap": "Bu ikinci cevaptır"
-   },
-   {
-     "soru": "Bu ikinci sorudur",
-     "cevap": "Bu ikinci cevaptır"
-   }
-  ]
+{
+"soru":"Türk kadını ilk ne zaman oy kullanmıştır ?"
+"cevap":"1930"
+},
+{
+"soru":"Türkiye’nin yurtdışındaki en büyük askeri üssü hangi ülkededir ?"
+"cevap":"SOMALİ"
+},
+{
+"soru":"Milli yas ilan etme yetkisi kime aittir ?"
+"cevap":"Cumhurbaşkanlığı"
+},
+{
+"soru":"İlk kez insan dokusuna sahip , damarlı 3D kalp yapan üniversite hangi ülkededir ?"
+"cevap":"İSRAİL"
+},
+{
+"soru":"Ay’a ilk defa ayak basan kimdir ?"
+"cevap":"Neil Armstrong"
+},
+{
+"soru":"Nisan 2019 ayında ilk defa neyin fotoğrafı çekildi ?"
+"cevap":"KARA DELİK"
+},
+{
+"soru":"Nisan 2019 yılında ilk defa fotoğrafı çekilen kara deliğin adı nedir ?"
+"cevap":"POWEHİ"
+},
+{
+"soru":"Nisan 2019’da ilk defa fotoğrafı çekilen kara deliği kim bulmuştur ?"
+"cevap":"KATİE BOUMAN"
+},
+{
+"soru":"İlk kara delik fotoğrafının çekilmesinde önemli rol oynayan Türk astrofizikçi kimdir ?"
+"cevap":"Prof. Dr. Ferval ÖZEL"
+},
+{
+"soru":"Cumhuriyet tarihinin en büyük camisi hangisidir ?"
+"cevap":"ÇAMLICA"
+},
+{
+"soru":"Türkiye’nin ilk kadın bakanı kimdir ?"
+"cevap":"Türkan AKYOL"
+},
+{
+"soru":"Dünya’nın ilk ekoloji şehri hangisidir ?"
+"cevap":"MASDAR"
+},
+{
+"soru":"İlk Türk kadın gazeteci kimdir ?"
+"cevap":"Selma RIZA"
+},
+{
+"soru":"Türkiye’nin ilk kadın öğretmeni kimdir ?"
+"cevap":"Fatma Refet ANGIN"
+},
+{
+"soru":"İslam’ın Roma’sı olarak bilinen kent hangisidir ?"
+"cevap":"BUHARA"
+},
+{
+"soru":"Tarihte bulunan ilk maden hangisidir ?"
+"cevap":"BAKIR"
+},
+{
+"soru":"Ocak 2019’da hangi ülkede darbe girişimi olmuştur ?"
+"cevap":"Venezuella"
+},
+{
+"soru":"İlk İslam filozofu kimdir ?"
+"cevap":"EL KİNDİ"
+},
+{
+"soru":"Türkiye’nin ilk petrol rafineri nerede açılmıştır ?"
+"cevap":"BATMAN"
+},
+{
+"soru":"Boksör ayaklanması hangi ülkede çıkmıştır ?"
+"cevap":"ÇİN"
+},
+{
+"soru":"Mona Lisa tablosu hangi ülkededir ?"
+"cevap":"FRANSA"
+},
+{
+"soru":"Manda ve Himaye kesin olarak nerede reddedilmiştir ?"
+"cevap":"Sivas"
+},
+{
+"soru":"Atatürk’ün ilk heykeli nereye dikilmiştir ?"
+"cevap":"Gülhane Parkı"
+},
+{
+"soru":"İlk Türkçe ezan hangi camide okunmuştur ?"
+"cevap":"İSTANBUL FATİ CAMİ"
+},
+{
+"soru":"Hangi şairimiz Ölüm Şairi unvanıyla bilinmektedir ?"
+"cevap":"Cahit Sıtkı TARANCI"
+},
+{
+"soru":"Nutuk’ta adı en çok geçen kimdir ?"
+"cevap":"Yahya Kaptan"
+},
+{
+"soru":"18 Mart kahramanı kimdir ?"
+"cevap":"Cevat Çobanlı"
+},
+{
+"soru":"Kut’ül Amare Fatihi kimdir ?"
+"cevap":"Halil Paşa"
+},
+{
+"soru":"TUHAF isimli yıldızı hangi Türk Astronom keşfetmiştir ?"
+"cevap":"Tolgahan KILIÇOĞLU"
+},
+{
+"soru":"Türkiye’nin ilk Safari Parkı hangi ilimizdedir ?"
+"cevap":"Gaziantep"
+},
+{
+"soru":"Hangi kıtada çöl yoktur ?"
+"cevap":"Avrupa"
+},
+{
+"soru":"Türkiye’de ilk demir yolu hattı nerede açılmıştır ?"
+"cevap":"İZMİR-AYDIN"
+},
+{
+"soru":"Türkiye’nin en büyük kargo havalimanı hangi şehirdedir ?"
+"cevap":"ŞANLIURFA"
+},
+{
+"soru":"Türkiye’de milletvekili seçimleri kaç yılda bir yapılır ?"
+"cevap":"5"
+},
+{
+"soru":"Dünya’nın en eski üniversitesi olarak kabul edilen üniversite hangisidir ?"
+"cevap":"BOLOGNA"
+},
+{
+"soru":"Mars’ın mimarlık çalışmalarına katılamaya hak kazanan ilk Türk kimdir ?"
+"cevap":"Saadet YÜNCÜ"
+},
+{
+"soru":"Türkiye ilk defa hangi ülkeye asker göndermiştir ?"
+"cevap":"KORE"
+},
+{
+"soru":"E-Devlet hangi yılda kuruldu ?"
+"cevap":"2008"
+},
+{
+"soru":"Dünya’nın ilk kadın başbakanı hangi ülkede görev yapmıştır ?"
+"cevap":"Sri Lanka"
+},
+{
+"soru":"İlk Türk Amiral kimdir ?"
+"cevap":"ÇAKA BEY"
+},
+{
+"soru":"Çöl Aslanı kimdir ?"
+"cevap":"Fahrettin Paşa"
+},
+{
+"soru":"Osmanlı ilk olarak hangi savaşta telgraf kullanmıştır ?"
+"cevap":"KIRIM SAVAŞI"
+},
+{
+"soru":"Dünya’nın en uzun heykeli hangisidir ?"
+"cevap":"Serdar Vallabhbbi"
+},
+{
+"soru":"Dünya’nın en uzun heykeli hangi ülkededir ?"
+"cevap":"Hindistan"
+},
+{
+"soru":"Dünya’nın en uzun tüneli hangisidir ?"
+"cevap":"Gotthard Base Tüneli"
+},
+{
+"soru":"Hidroelektrik potansiyeli en yüksek olan bölgemiz hangisidir ?"
+"cevap":"Doğu Anadolu"
+},
+{
+"soru":"Türk’ün Ateşle İmtihanı kime aittir ?"
+"cevap":"Halide Edip ADIVAR"
+},
+{
+"soru":"Bolayır Fatihi kimdir ?"
+"cevap":"Mustafa Kemal"
+},
+{
+"soru":"Plevne Kahramanı kimdir ?"
+"cevap":"Gazi Osman Paşa"
+},
+{
+"soru":"Dünya’nın Damı neresidir ?"
+"cevap":"TİBET"
+},
+{
+"soru":"SULTAN unvanını ilk kim kullanmıştır ?"
+"cevap":"Gazneli Mahmut"
+},
+{
+"soru":"Vatan Şairi unvanı ile bilinen şair kimdir ?"
+"cevap":"Namık Kemal"
+},
+{
+"soru":"Türkiye’nin ilk Müze Parkı hangi şehirdedir ?"
+"cevap":"BATMAN"
+},
+{
+"soru":"Kadınlara askerliği zorunlu hale getiren ülke hangisidir ?"
+"cevap":"NORVEÇ"
+},
+{
+"soru":"Türkiye’nin ilk milli yer gözlem uydusunun adı nedir ?"
+"cevap":"RASAT"
+},
+{
+"soru":"Nutuk ne ile başlar ?"
+"cevap":"Atatürk’ün Samsun’a Çıkışı"
+},
+{
+"soru":"Nutuk ne ile biter ?"
+"cevap":"Gençliğe Hitabe"
+},
+{
+"soru":"Uzaya gönderilen ilk canlı hangisidir ?"
+"cevap":"Köpek"
+},
+{
+"soru":"Klonlanan ilk hayvan hangisidir ?"
+"cevap":"Koyun"
+},
+{
+"soru":"Türkiye’nin ilk zooloji müzesi hangi şehirdedir ?"
+"cevap":"Gaziantep"
+},
+{
+"soru":"Türkiye’nin en büyük hayvanat bahçesi hangi şehirdedir ?"
+"cevap":"Gaziantep"
+},
+{
+"soru":"Türkiye’nin ilk şehir hastanesi nerede açılmıştır ?"
+"cevap":"Yozgat"
+},
+{
+"soru":"Güneş sisteminin en sıcak gezegeni hangisidir ?"
+"cevap":"Venüs"
+},
+{
+"soru":"Avrupa İnsan Hakları Mahkemesinde 9 yıl boyunca Türkiye’yi kim temsil edecek ?"
+"cevap":"Doç.Dr. Saadet Yüksel"
+},
+{
+"soru":"Portekiz’de düzenlenen Aerobik Jimnastik Dünya Kupası’nda altın madalyayı kazanan türk hangisidir ?"
+"cevap":"Ayşe Begüm Onbaşı"
+},
+{
+"soru":"Türkiye’nin ilk deniz füzesinin adı nedir ?"
+"cevap":"Atmaca"
+},
+{
+"soru":"Türkiye’nin ilk özel endüstri bölgesi hangisidir ?"
+"cevap":"İzmir-Aliağa"
+},
+{
+"soru":"10. Uluslar arası Hamamatsu Piyano yarışmasında hangi türk 1. Oldu ?"
+"cevap":"Can Çakmur"
+},
+{
+"soru":"Time Dergisi ilk defa hayatta olmayan biri olarak kimi seçmiştir ?"
+"cevap":"Cemal Kaşıkçı"
+},
+{
+"soru":"Time Dersine röportaj veren ilk Türk kimdir ?"
+"cevap":"Mustafa Kemal ATATÜRK"
+},
+{
+"soru":"Hz. İsa’nın doğum günün ulusal bayram olarak ilan eden ülke hangisidir ?"
+"cevap":"Irak"
+},
+{
+"soru":"91. Akademi Ödüllerinde en iyi kadın oyuncu kim seçilmiştir ?"
+"cevap":"Olivia Colman"
+},
+{
+"soru":"91. Akademi Ödüllerinde en iyi erkek oyuncu kim seçilmiştir ?"
+"cevap":"Rami Malek"
+},
+{
+"soru":"Avrupa Güreş Şampiyonasında üst üste 4. Kez kim şampiyon olmuştur ?"
+"cevap":"Yasemin ADAR"
+},
+{
+"soru":"Geçtiğimiz günlerde Fransa’nın başkentinde yangın sonucu büyük hasar alan nedir ?"
+"cevap":"Notre Dame Katedrali"
+},
+{
+"soru":"Sinyor lakaplı Türk sporcusu kimdir ?"
+"cevap":"Can Bartu"
+},
+{
+"soru":"Su Kasidesi kime aittir ?"
+"cevap":"Fuzuli"
+},
+{
+"soru":"Türkiye’nin ilk muhalefet partisi hangisidir ?"
+"cevap":"Terakkiperver"
+},
+{
+"soru":"Türkiye’nin ilk kadın avukatı kimdir ?"
+"cevap":"Süreyya Ağaoğlu"
+},
+{
+"soru":"Türk Sinema Tarihinde ilk defa uluslar arası ödül alan film hangisidir ?"
+"cevap":"Susuz Yaz"
+},
+{
+"soru":"Japonya’da 30 Nisan 2019’da değişecek olan imparatorluğun yeni adı nedir ?"
+"cevap":"REİWA"
+},
+{
+"soru":"Heykelini yaptıran ilk padişah kimdir  ?"
+"cevap":"Abdülaziz"
+},
+{
+"soru":"TÜRKSOY’UN başkenti neresidir ?"
+"cevap":"Ankara"
+},
+{
+"soru":"Halk arasında Çoban Yıldızı olarak bilinen yıldız hangisidir ?"
+"cevap":"Venüs"
+},
+{
+"soru":"Dünya Down Sendromu günü ne zaman kutlanır ?"
+"cevap":"21 MART"
+},
+{
+"soru":"Osmanlı’da sürgün yeri olarak bilinen (FİZAN) nerededir ?"
+"cevap":"LİBYA"
+},
+{
+"soru":"F klavyenin mucidi kimdir ?"
+"cevap":"İhsan Sıtkı Yener"
+},
+{
+"soru":"2019 yılında Ay’ın karanlık yüzüne ilk defa uydu gönderen ülke hangisidir ?"
+"cevap":"Çin"
+},
+{
+"soru":"Ülkemizde ilk topraksız tarım hangi şehirde yapıldı ?"
+"cevap":"Giresun"
+},
+{
+"soru":"Türkiye Cumhuriyeti Kamu Başdenetçisi kimdir ?"
+"cevap":"Şeref Malkoç"
+},
+{
+"soru":"İlk yerli buğday tohumumuzun adı nedir ?"
+"cevap":"Sorgül"
+},
+{
+"soru":"İlk yerli buğdayımız hangi şehirde ekimi yapıldı ?"
+"cevap":"Mardin"
+},
+{
+"soru":"Milletvekili seçiminde uygulanan sitemin adı nedir ?"
+"cevap":"D’HONDT SİSTEMİ"
+},
+{
+"soru":"Adını Çekya olarak değiştiren ülke hangisidir ?"
+"cevap":"Çek Cumhuriyeti"
+},
+{
+"soru":"2019 yılında sakin şehir seçilen ilçemiz hangisidir ?"
+"cevap":"Köyceğiz"
+},
+{
+"soru":"Anayasa Mahkemesi başkanı kimdir ?"
+"cevap":"Zühtü Arslan"
+},
+{
+"soru":"Hangi akarsu Yunanistan ile doğal sınır oluşturmaktadır ?"
+"cevap":"Meriç"
+},
+{
+"soru":"İç Anadolu bölgesindeki kalkınma projesinin adı nedir ?"
+"cevap":"KOP"
+},
+{
+"soru":"Zümrüdüanka ödüllerini hangi kurum vermektedir ?"
+"cevap":"Yeşilay"
+},
+{
+"soru":"Doğu’nun Çukurovası olarak bilinen ilimiz hangisidir ?"
+"cevap":"Iğdır"
+}
+]
 }
